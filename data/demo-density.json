@@ -1,0 +1,1265 @@
+{
+ "source": "ACS 2024 5-year (via UtilityTrack data/acs_tracts.json) / Census land area",
+ "rows": [
+  {
+   "geoid": "31055000200",
+   "households": 1414.0,
+   "population": 3266.0,
+   "hh_per_acre": 2.18
+  },
+  {
+   "geoid": "31055000300",
+   "households": 1021.0,
+   "population": 2762.0,
+   "hh_per_acre": 3.51
+  },
+  {
+   "geoid": "31055000400",
+   "households": 742.0,
+   "population": 1819.0,
+   "hh_per_acre": 0.8
+  },
+  {
+   "geoid": "31055000500",
+   "households": 1199.0,
+   "population": 3484.0,
+   "hh_per_acre": 0.28
+  },
+  {
+   "geoid": "31055000600",
+   "households": 512.0,
+   "population": 1274.0,
+   "hh_per_acre": 2.26
+  },
+  {
+   "geoid": "31055000700",
+   "households": 481.0,
+   "population": 1113.0,
+   "hh_per_acre": 2.1
+  },
+  {
+   "geoid": "31055000800",
+   "households": 751.0,
+   "population": 1898.0,
+   "hh_per_acre": 1.94
+  },
+  {
+   "geoid": "31055001100",
+   "households": 1150.0,
+   "population": 2744.0,
+   "hh_per_acre": 2.47
+  },
+  {
+   "geoid": "31055001200",
+   "households": 1304.0,
+   "population": 4624.0,
+   "hh_per_acre": 2.83
+  },
+  {
+   "geoid": "31055001600",
+   "households": 918.0,
+   "population": 3416.0,
+   "hh_per_acre": 2.17
+  },
+  {
+   "geoid": "31055001800",
+   "households": 2968.0,
+   "population": 4969.0,
+   "hh_per_acre": 5.83
+  },
+  {
+   "geoid": "31055001900",
+   "households": 1251.0,
+   "population": 1856.0,
+   "hh_per_acre": 10.25
+  },
+  {
+   "geoid": "31055002000",
+   "households": 1137.0,
+   "population": 3760.0,
+   "hh_per_acre": 2.81
+  },
+  {
+   "geoid": "31055002100",
+   "households": 990.0,
+   "population": 2502.0,
+   "hh_per_acre": 5.49
+  },
+  {
+   "geoid": "31055002200",
+   "households": 725.0,
+   "population": 1490.0,
+   "hh_per_acre": 3.92
+  },
+  {
+   "geoid": "31055002300",
+   "households": 971.0,
+   "population": 2435.0,
+   "hh_per_acre": 2.25
+  },
+  {
+   "geoid": "31055002400",
+   "households": 1282.0,
+   "population": 3521.0,
+   "hh_per_acre": 3.88
+  },
+  {
+   "geoid": "31055002500",
+   "households": 862.0,
+   "population": 2744.0,
+   "hh_per_acre": 1.0
+  },
+  {
+   "geoid": "31055002600",
+   "households": 622.0,
+   "population": 2261.0,
+   "hh_per_acre": 3.03
+  },
+  {
+   "geoid": "31055002700",
+   "households": 769.0,
+   "population": 2626.0,
+   "hh_per_acre": 1.95
+  },
+  {
+   "geoid": "31055002800",
+   "households": 1133.0,
+   "population": 3412.0,
+   "hh_per_acre": 2.66
+  },
+  {
+   "geoid": "31055002900",
+   "households": 1717.0,
+   "population": 5891.0,
+   "hh_per_acre": 2.62
+  },
+  {
+   "geoid": "31055003000",
+   "households": 2343.0,
+   "population": 8151.0,
+   "hh_per_acre": 3.87
+  },
+  {
+   "geoid": "31055003100",
+   "households": 1456.0,
+   "population": 4052.0,
+   "hh_per_acre": 1.5
+  },
+  {
+   "geoid": "31055003200",
+   "households": 1000.0,
+   "population": 2433.0,
+   "hh_per_acre": 2.86
+  },
+  {
+   "geoid": "31055003300",
+   "households": 597.0,
+   "population": 2322.0,
+   "hh_per_acre": 1.73
+  },
+  {
+   "geoid": "31055003401",
+   "households": 1548.0,
+   "population": 3795.0,
+   "hh_per_acre": 4.27
+  },
+  {
+   "geoid": "31055003402",
+   "households": 1003.0,
+   "population": 2885.0,
+   "hh_per_acre": 3.9
+  },
+  {
+   "geoid": "31055003500",
+   "households": 1954.0,
+   "population": 4314.0,
+   "hh_per_acre": 2.71
+  },
+  {
+   "geoid": "31055003600",
+   "households": 2014.0,
+   "population": 4084.0,
+   "hh_per_acre": 4.32
+  },
+  {
+   "geoid": "31055003700",
+   "households": 1136.0,
+   "population": 2271.0,
+   "hh_per_acre": 4.67
+  },
+  {
+   "geoid": "31055003800",
+   "households": 1505.0,
+   "population": 3635.0,
+   "hh_per_acre": 3.19
+  },
+  {
+   "geoid": "31055003900",
+   "households": 946.0,
+   "population": 2309.0,
+   "hh_per_acre": 7.95
+  },
+  {
+   "geoid": "31055004000",
+   "households": 2272.0,
+   "population": 3298.0,
+   "hh_per_acre": 9.24
+  },
+  {
+   "geoid": "31055004200",
+   "households": 730.0,
+   "population": 1347.0,
+   "hh_per_acre": 6.02
+  },
+  {
+   "geoid": "31055004300",
+   "households": 1917.0,
+   "population": 3262.0,
+   "hh_per_acre": 8.0
+  },
+  {
+   "geoid": "31055004400",
+   "households": 775.0,
+   "population": 1313.0,
+   "hh_per_acre": 2.4
+  },
+  {
+   "geoid": "31055004500",
+   "households": 1728.0,
+   "population": 3206.0,
+   "hh_per_acre": 6.98
+  },
+  {
+   "geoid": "31055004600",
+   "households": 1153.0,
+   "population": 2494.0,
+   "hh_per_acre": 2.44
+  },
+  {
+   "geoid": "31055004700",
+   "households": 825.0,
+   "population": 3018.0,
+   "hh_per_acre": 1.38
+  },
+  {
+   "geoid": "31055004800",
+   "households": 2191.0,
+   "population": 4020.0,
+   "hh_per_acre": 7.45
+  },
+  {
+   "geoid": "31055004900",
+   "households": 2101.0,
+   "population": 4794.0,
+   "hh_per_acre": 4.93
+  },
+  {
+   "geoid": "31055005000",
+   "households": 1793.0,
+   "population": 3698.0,
+   "hh_per_acre": 7.02
+  },
+  {
+   "geoid": "31055005100",
+   "households": 997.0,
+   "population": 2428.0,
+   "hh_per_acre": 4.89
+  },
+  {
+   "geoid": "31055005200",
+   "households": 518.0,
+   "population": 1730.0,
+   "hh_per_acre": 2.75
+  },
+  {
+   "geoid": "31055005300",
+   "households": 954.0,
+   "population": 2832.0,
+   "hh_per_acre": 2.08
+  },
+  {
+   "geoid": "31055005400",
+   "households": 1259.0,
+   "population": 3494.0,
+   "hh_per_acre": 4.39
+  },
+  {
+   "geoid": "31055005500",
+   "households": 2051.0,
+   "population": 5380.0,
+   "hh_per_acre": 3.96
+  },
+  {
+   "geoid": "31055005600",
+   "households": 1766.0,
+   "population": 3965.0,
+   "hh_per_acre": 2.43
+  },
+  {
+   "geoid": "31055005700",
+   "households": 2186.0,
+   "population": 4513.0,
+   "hh_per_acre": 4.95
+  },
+  {
+   "geoid": "31055005800",
+   "households": 1830.0,
+   "population": 4470.0,
+   "hh_per_acre": 4.0
+  },
+  {
+   "geoid": "31055005901",
+   "households": 914.0,
+   "population": 2794.0,
+   "hh_per_acre": 2.78
+  },
+  {
+   "geoid": "31055005902",
+   "households": 760.0,
+   "population": 2245.0,
+   "hh_per_acre": 1.95
+  },
+  {
+   "geoid": "31055006000",
+   "households": 1439.0,
+   "population": 4481.0,
+   "hh_per_acre": 3.43
+  },
+  {
+   "geoid": "31055006101",
+   "households": 962.0,
+   "population": 2748.0,
+   "hh_per_acre": 2.46
+  },
+  {
+   "geoid": "31055006102",
+   "households": 1597.0,
+   "population": 4499.0,
+   "hh_per_acre": 2.57
+  },
+  {
+   "geoid": "31055006202",
+   "households": 1832.0,
+   "population": 5349.0,
+   "hh_per_acre": 2.43
+  },
+  {
+   "geoid": "31055006301",
+   "households": 1476.0,
+   "population": 2837.0,
+   "hh_per_acre": 1.9
+  },
+  {
+   "geoid": "31055006302",
+   "households": 1652.0,
+   "population": 4870.0,
+   "hh_per_acre": 2.8
+  },
+  {
+   "geoid": "31055006303",
+   "households": 1076.0,
+   "population": 3025.0,
+   "hh_per_acre": 4.48
+  },
+  {
+   "geoid": "31055006400",
+   "households": 2533.0,
+   "population": 4821.0,
+   "hh_per_acre": 3.74
+  },
+  {
+   "geoid": "31055006503",
+   "households": 1106.0,
+   "population": 2778.0,
+   "hh_per_acre": 1.23
+  },
+  {
+   "geoid": "31055006504",
+   "households": 1443.0,
+   "population": 3740.0,
+   "hh_per_acre": 1.6
+  },
+  {
+   "geoid": "31055006505",
+   "households": 792.0,
+   "population": 1830.0,
+   "hh_per_acre": 1.01
+  },
+  {
+   "geoid": "31055006506",
+   "households": 1430.0,
+   "population": 3444.0,
+   "hh_per_acre": 2.73
+  },
+  {
+   "geoid": "31055006603",
+   "households": 1418.0,
+   "population": 3165.0,
+   "hh_per_acre": 3.69
+  },
+  {
+   "geoid": "31055006604",
+   "households": 1714.0,
+   "population": 3798.0,
+   "hh_per_acre": 2.97
+  },
+  {
+   "geoid": "31055006605",
+   "households": 1721.0,
+   "population": 2753.0,
+   "hh_per_acre": 5.42
+  },
+  {
+   "geoid": "31055006606",
+   "households": 1310.0,
+   "population": 2999.0,
+   "hh_per_acre": 2.81
+  },
+  {
+   "geoid": "31055006701",
+   "households": 1767.0,
+   "population": 4017.0,
+   "hh_per_acre": 1.39
+  },
+  {
+   "geoid": "31055006703",
+   "households": 1446.0,
+   "population": 3449.0,
+   "hh_per_acre": 1.98
+  },
+  {
+   "geoid": "31055006704",
+   "households": 845.0,
+   "population": 1864.0,
+   "hh_per_acre": 1.59
+  },
+  {
+   "geoid": "31055006803",
+   "households": 885.0,
+   "population": 1775.0,
+   "hh_per_acre": 1.79
+  },
+  {
+   "geoid": "31055006804",
+   "households": 649.0,
+   "population": 1755.0,
+   "hh_per_acre": 0.98
+  },
+  {
+   "geoid": "31055006805",
+   "households": 1367.0,
+   "population": 3364.0,
+   "hh_per_acre": 1.61
+  },
+  {
+   "geoid": "31055006806",
+   "households": 1190.0,
+   "population": 2388.0,
+   "hh_per_acre": 2.13
+  },
+  {
+   "geoid": "31055006903",
+   "households": 993.0,
+   "population": 2515.0,
+   "hh_per_acre": 2.69
+  },
+  {
+   "geoid": "31055006904",
+   "households": 1641.0,
+   "population": 4156.0,
+   "hh_per_acre": 1.88
+  },
+  {
+   "geoid": "31055006905",
+   "households": 706.0,
+   "population": 1620.0,
+   "hh_per_acre": 1.69
+  },
+  {
+   "geoid": "31055006906",
+   "households": 1590.0,
+   "population": 3329.0,
+   "hh_per_acre": 2.84
+  },
+  {
+   "geoid": "31055007001",
+   "households": 2675.0,
+   "population": 5299.0,
+   "hh_per_acre": 2.87
+  },
+  {
+   "geoid": "31055007002",
+   "households": 1486.0,
+   "population": 3454.0,
+   "hh_per_acre": 3.5
+  },
+  {
+   "geoid": "31055007003",
+   "households": 948.0,
+   "population": 2264.0,
+   "hh_per_acre": 0.78
+  },
+  {
+   "geoid": "31055007101",
+   "households": 1220.0,
+   "population": 3371.0,
+   "hh_per_acre": 1.57
+  },
+  {
+   "geoid": "31055007102",
+   "households": 1225.0,
+   "population": 3568.0,
+   "hh_per_acre": 0.81
+  },
+  {
+   "geoid": "31055007303",
+   "households": 1234.0,
+   "population": 3075.0,
+   "hh_per_acre": 0.14
+  },
+  {
+   "geoid": "31055007304",
+   "households": 657.0,
+   "population": 1446.0,
+   "hh_per_acre": 0.34
+  },
+  {
+   "geoid": "31055007309",
+   "households": 1605.0,
+   "population": 4323.0,
+   "hh_per_acre": 1.68
+  },
+  {
+   "geoid": "31055007310",
+   "households": 1174.0,
+   "population": 3245.0,
+   "hh_per_acre": 2.38
+  },
+  {
+   "geoid": "31055007311",
+   "households": 1127.0,
+   "population": 2854.0,
+   "hh_per_acre": 2.92
+  },
+  {
+   "geoid": "31055007312",
+   "households": 1178.0,
+   "population": 2699.0,
+   "hh_per_acre": 1.67
+  },
+  {
+   "geoid": "31055007314",
+   "households": 1748.0,
+   "population": 5560.0,
+   "hh_per_acre": 2.72
+  },
+  {
+   "geoid": "31055007315",
+   "households": 2426.0,
+   "population": 5639.0,
+   "hh_per_acre": 1.0
+  },
+  {
+   "geoid": "31055007316",
+   "households": 1532.0,
+   "population": 4119.0,
+   "hh_per_acre": 2.39
+  },
+  {
+   "geoid": "31055007317",
+   "households": 1835.0,
+   "population": 4802.0,
+   "hh_per_acre": 0.1
+  },
+  {
+   "geoid": "31055007318",
+   "households": 3951.0,
+   "population": 11586.0,
+   "hh_per_acre": 0.49
+  },
+  {
+   "geoid": "31055007319",
+   "households": 1896.0,
+   "population": 5391.0,
+   "hh_per_acre": 2.08
+  },
+  {
+   "geoid": "31055007320",
+   "households": 1384.0,
+   "population": 4059.0,
+   "hh_per_acre": 1.61
+  },
+  {
+   "geoid": "31055007406",
+   "households": 2500.0,
+   "population": 6223.0,
+   "hh_per_acre": 3.89
+  },
+  {
+   "geoid": "31055007407",
+   "households": 1616.0,
+   "population": 3527.0,
+   "hh_per_acre": 2.56
+  },
+  {
+   "geoid": "31055007408",
+   "households": 1944.0,
+   "population": 4683.0,
+   "hh_per_acre": 3.59
+  },
+  {
+   "geoid": "31055007409",
+   "households": 880.0,
+   "population": 2006.0,
+   "hh_per_acre": 0.27
+  },
+  {
+   "geoid": "31055007424",
+   "households": 1499.0,
+   "population": 3045.0,
+   "hh_per_acre": 3.77
+  },
+  {
+   "geoid": "31055007429",
+   "households": 1454.0,
+   "population": 3783.0,
+   "hh_per_acre": 1.85
+  },
+  {
+   "geoid": "31055007431",
+   "households": 1724.0,
+   "population": 4286.0,
+   "hh_per_acre": 2.7
+  },
+  {
+   "geoid": "31055007432",
+   "households": 1285.0,
+   "population": 2853.0,
+   "hh_per_acre": 2.2
+  },
+  {
+   "geoid": "31055007433",
+   "households": 1835.0,
+   "population": 4103.0,
+   "hh_per_acre": 2.35
+  },
+  {
+   "geoid": "31055007434",
+   "households": 1379.0,
+   "population": 2912.0,
+   "hh_per_acre": 3.35
+  },
+  {
+   "geoid": "31055007435",
+   "households": 1567.0,
+   "population": 4002.0,
+   "hh_per_acre": 3.65
+  },
+  {
+   "geoid": "31055007436",
+   "households": 1857.0,
+   "population": 4089.0,
+   "hh_per_acre": 3.33
+  },
+  {
+   "geoid": "31055007438",
+   "households": 752.0,
+   "population": 1786.0,
+   "hh_per_acre": 1.19
+  },
+  {
+   "geoid": "31055007439",
+   "households": 1937.0,
+   "population": 4971.0,
+   "hh_per_acre": 2.46
+  },
+  {
+   "geoid": "31055007440",
+   "households": 1161.0,
+   "population": 2092.0,
+   "hh_per_acre": 2.37
+  },
+  {
+   "geoid": "31055007441",
+   "households": 792.0,
+   "population": 2416.0,
+   "hh_per_acre": 1.24
+  },
+  {
+   "geoid": "31055007442",
+   "households": 1829.0,
+   "population": 5045.0,
+   "hh_per_acre": 2.84
+  },
+  {
+   "geoid": "31055007443",
+   "households": 1527.0,
+   "population": 3285.0,
+   "hh_per_acre": 2.53
+  },
+  {
+   "geoid": "31055007444",
+   "households": 2871.0,
+   "population": 4640.0,
+   "hh_per_acre": 4.61
+  },
+  {
+   "geoid": "31055007445",
+   "households": 1213.0,
+   "population": 2667.0,
+   "hh_per_acre": 1.86
+  },
+  {
+   "geoid": "31055007446",
+   "households": 1434.0,
+   "population": 3964.0,
+   "hh_per_acre": 2.28
+  },
+  {
+   "geoid": "31055007447",
+   "households": 1165.0,
+   "population": 2826.0,
+   "hh_per_acre": 3.61
+  },
+  {
+   "geoid": "31055007448",
+   "households": 1283.0,
+   "population": 3268.0,
+   "hh_per_acre": 2.03
+  },
+  {
+   "geoid": "31055007449",
+   "households": 1500.0,
+   "population": 3418.0,
+   "hh_per_acre": 2.36
+  },
+  {
+   "geoid": "31055007450",
+   "households": 1271.0,
+   "population": 3285.0,
+   "hh_per_acre": 2.59
+  },
+  {
+   "geoid": "31055007451",
+   "households": 2379.0,
+   "population": 5069.0,
+   "hh_per_acre": 1.87
+  },
+  {
+   "geoid": "31055007452",
+   "households": 1762.0,
+   "population": 4942.0,
+   "hh_per_acre": 2.21
+  },
+  {
+   "geoid": "31055007453",
+   "households": 1324.0,
+   "population": 3575.0,
+   "hh_per_acre": 2.17
+  },
+  {
+   "geoid": "31055007454",
+   "households": 1844.0,
+   "population": 4418.0,
+   "hh_per_acre": 3.16
+  },
+  {
+   "geoid": "31055007455",
+   "households": 882.0,
+   "population": 1621.0,
+   "hh_per_acre": 2.75
+  },
+  {
+   "geoid": "31055007456",
+   "households": 1021.0,
+   "population": 2252.0,
+   "hh_per_acre": 2.36
+  },
+  {
+   "geoid": "31055007457",
+   "households": 1306.0,
+   "population": 2191.0,
+   "hh_per_acre": 2.55
+  },
+  {
+   "geoid": "31055007458",
+   "households": 1281.0,
+   "population": 2576.0,
+   "hh_per_acre": 4.09
+  },
+  {
+   "geoid": "31055007459",
+   "households": 1665.0,
+   "population": 3467.0,
+   "hh_per_acre": 2.85
+  },
+  {
+   "geoid": "31055007460",
+   "households": 1404.0,
+   "population": 4497.0,
+   "hh_per_acre": 2.19
+  },
+  {
+   "geoid": "31055007461",
+   "households": 2207.0,
+   "population": 6107.0,
+   "hh_per_acre": 3.43
+  },
+  {
+   "geoid": "31055007462",
+   "households": 1798.0,
+   "population": 4579.0,
+   "hh_per_acre": 2.76
+  },
+  {
+   "geoid": "31055007463",
+   "households": 1621.0,
+   "population": 3868.0,
+   "hh_per_acre": 2.52
+  },
+  {
+   "geoid": "31055007464",
+   "households": 1394.0,
+   "population": 2875.0,
+   "hh_per_acre": 1.79
+  },
+  {
+   "geoid": "31055007465",
+   "households": 1807.0,
+   "population": 4224.0,
+   "hh_per_acre": 3.64
+  },
+  {
+   "geoid": "31055007466",
+   "households": 2781.0,
+   "population": 5296.0,
+   "hh_per_acre": 4.29
+  },
+  {
+   "geoid": "31055007467",
+   "households": 2053.0,
+   "population": 4571.0,
+   "hh_per_acre": 3.22
+  },
+  {
+   "geoid": "31055007468",
+   "households": 1036.0,
+   "population": 2554.0,
+   "hh_per_acre": 2.73
+  },
+  {
+   "geoid": "31055007469",
+   "households": 1870.0,
+   "population": 4704.0,
+   "hh_per_acre": 2.94
+  },
+  {
+   "geoid": "31055007470",
+   "households": 2724.0,
+   "population": 6907.0,
+   "hh_per_acre": 4.26
+  },
+  {
+   "geoid": "31055007471",
+   "households": 1475.0,
+   "population": 4061.0,
+   "hh_per_acre": 2.3
+  },
+  {
+   "geoid": "31055007472",
+   "households": 1615.0,
+   "population": 3966.0,
+   "hh_per_acre": 2.51
+  },
+  {
+   "geoid": "31055007473",
+   "households": 8.0,
+   "population": 809.0,
+   "hh_per_acre": 0.01
+  },
+  {
+   "geoid": "31055007474",
+   "households": 652.0,
+   "population": 1547.0,
+   "hh_per_acre": 1.03
+  },
+  {
+   "geoid": "31055007504",
+   "households": 1725.0,
+   "population": 3809.0,
+   "hh_per_acre": 0.07
+  },
+  {
+   "geoid": "31055007505",
+   "households": 1855.0,
+   "population": 5663.0,
+   "hh_per_acre": 0.09
+  },
+  {
+   "geoid": "31055007506",
+   "households": 1322.0,
+   "population": 3596.0,
+   "hh_per_acre": 0.49
+  },
+  {
+   "geoid": "31055007508",
+   "households": 1325.0,
+   "population": 3109.0,
+   "hh_per_acre": 0.09
+  },
+  {
+   "geoid": "31055007509",
+   "households": 2936.0,
+   "population": 9420.0,
+   "hh_per_acre": 0.39
+  },
+  {
+   "geoid": "31055007514",
+   "households": 1628.0,
+   "population": 4542.0,
+   "hh_per_acre": 1.29
+  },
+  {
+   "geoid": "31055007515",
+   "households": 1836.0,
+   "population": 5455.0,
+   "hh_per_acre": 1.46
+  },
+  {
+   "geoid": "31055007516",
+   "households": 1503.0,
+   "population": 4390.0,
+   "hh_per_acre": 1.2
+  },
+  {
+   "geoid": "31055007517",
+   "households": 2553.0,
+   "population": 7212.0,
+   "hh_per_acre": 2.02
+  },
+  {
+   "geoid": "31055007518",
+   "households": 2524.0,
+   "population": 6471.0,
+   "hh_per_acre": 2.12
+  },
+  {
+   "geoid": "31055007519",
+   "households": 2593.0,
+   "population": 6599.0,
+   "hh_per_acre": 1.34
+  },
+  {
+   "geoid": "31055007520",
+   "households": 1500.0,
+   "population": 4811.0,
+   "hh_per_acre": 2.34
+  },
+  {
+   "geoid": "31055007521",
+   "households": 1323.0,
+   "population": 3970.0,
+   "hh_per_acre": 2.08
+  },
+  {
+   "geoid": "31055007522",
+   "households": 959.0,
+   "population": 2757.0,
+   "hh_per_acre": 0.77
+  },
+  {
+   "geoid": "31055007523",
+   "households": 767.0,
+   "population": 2321.0,
+   "hh_per_acre": 1.21
+  },
+  {
+   "geoid": "31055007524",
+   "households": 1875.0,
+   "population": 4218.0,
+   "hh_per_acre": 1.46
+  },
+  {
+   "geoid": "31153010103",
+   "households": 1917.0,
+   "population": 4301.0,
+   "hh_per_acre": 0.43
+  },
+  {
+   "geoid": "31153010104",
+   "households": 740.0,
+   "population": 2115.0,
+   "hh_per_acre": 1.74
+  },
+  {
+   "geoid": "31153010105",
+   "households": 1228.0,
+   "population": 3189.0,
+   "hh_per_acre": 2.06
+  },
+  {
+   "geoid": "31153010106",
+   "households": 1835.0,
+   "population": 4481.0,
+   "hh_per_acre": 2.42
+  },
+  {
+   "geoid": "31153010107",
+   "households": 1505.0,
+   "population": 4554.0,
+   "hh_per_acre": 1.74
+  },
+  {
+   "geoid": "31153010108",
+   "households": 1625.0,
+   "population": 4061.0,
+   "hh_per_acre": 1.29
+  },
+  {
+   "geoid": "31153010203",
+   "households": 2306.0,
+   "population": 6055.0,
+   "hh_per_acre": 0.96
+  },
+  {
+   "geoid": "31153010204",
+   "households": 1456.0,
+   "population": 3923.0,
+   "hh_per_acre": 0.84
+  },
+  {
+   "geoid": "31153010205",
+   "households": 1078.0,
+   "population": 2927.0,
+   "hh_per_acre": 1.93
+  },
+  {
+   "geoid": "31153010206",
+   "households": 1500.0,
+   "population": 4502.0,
+   "hh_per_acre": 3.38
+  },
+  {
+   "geoid": "31153010207",
+   "households": 940.0,
+   "population": 2035.0,
+   "hh_per_acre": 1.83
+  },
+  {
+   "geoid": "31153010208",
+   "households": 1704.0,
+   "population": 4220.0,
+   "hh_per_acre": 0.13
+  },
+  {
+   "geoid": "31153010209",
+   "households": 1413.0,
+   "population": 4432.0,
+   "hh_per_acre": 0.6
+  },
+  {
+   "geoid": "31153010302",
+   "households": 242.0,
+   "population": 892.0,
+   "hh_per_acre": 0.12
+  },
+  {
+   "geoid": "31153010305",
+   "households": 702.0,
+   "population": 1986.0,
+   "hh_per_acre": 1.5
+  },
+  {
+   "geoid": "31153010306",
+   "households": 956.0,
+   "population": 3217.0,
+   "hh_per_acre": 3.2
+  },
+  {
+   "geoid": "31153010401",
+   "households": 1116.0,
+   "population": 2856.0,
+   "hh_per_acre": 2.47
+  },
+  {
+   "geoid": "31153010402",
+   "households": 1421.0,
+   "population": 3323.0,
+   "hh_per_acre": 1.03
+  },
+  {
+   "geoid": "31153010502",
+   "households": 1867.0,
+   "population": 4828.0,
+   "hh_per_acre": 1.18
+  },
+  {
+   "geoid": "31153010503",
+   "households": 1331.0,
+   "population": 3331.0,
+   "hh_per_acre": 1.65
+  },
+  {
+   "geoid": "31153010504",
+   "households": 1320.0,
+   "population": 3054.0,
+   "hh_per_acre": 1.17
+  },
+  {
+   "geoid": "31153010505",
+   "households": 1341.0,
+   "population": 3503.0,
+   "hh_per_acre": 1.37
+  },
+  {
+   "geoid": "31153010614",
+   "households": 1970.0,
+   "population": 4716.0,
+   "hh_per_acre": 3.08
+  },
+  {
+   "geoid": "31153010615",
+   "households": 870.0,
+   "population": 2265.0,
+   "hh_per_acre": 1.9
+  },
+  {
+   "geoid": "31153010616",
+   "households": 1841.0,
+   "population": 4891.0,
+   "hh_per_acre": 1.65
+  },
+  {
+   "geoid": "31153010617",
+   "households": 1936.0,
+   "population": 5095.0,
+   "hh_per_acre": 2.02
+  },
+  {
+   "geoid": "31153010619",
+   "households": 1646.0,
+   "population": 3999.0,
+   "hh_per_acre": 2.33
+  },
+  {
+   "geoid": "31153010620",
+   "households": 2840.0,
+   "population": 6980.0,
+   "hh_per_acre": 1.19
+  },
+  {
+   "geoid": "31153010621",
+   "households": 2286.0,
+   "population": 5837.0,
+   "hh_per_acre": 3.62
+  },
+  {
+   "geoid": "31153010622",
+   "households": 1364.0,
+   "population": 3376.0,
+   "hh_per_acre": 2.12
+  },
+  {
+   "geoid": "31153010623",
+   "households": 2434.0,
+   "population": 6326.0,
+   "hh_per_acre": 1.02
+  },
+  {
+   "geoid": "31153010624",
+   "households": 2241.0,
+   "population": 7616.0,
+   "hh_per_acre": 1.06
+  },
+  {
+   "geoid": "31153010625",
+   "households": 2054.0,
+   "population": 4460.0,
+   "hh_per_acre": 3.15
+  },
+  {
+   "geoid": "31153010626",
+   "households": 2130.0,
+   "population": 5472.0,
+   "hh_per_acre": 3.33
+  },
+  {
+   "geoid": "31153010627",
+   "households": 1102.0,
+   "population": 3244.0,
+   "hh_per_acre": 1.63
+  },
+  {
+   "geoid": "31153010629",
+   "households": 1811.0,
+   "population": 4420.0,
+   "hh_per_acre": 0.22
+  },
+  {
+   "geoid": "31153010630",
+   "households": 2514.0,
+   "population": 8052.0,
+   "hh_per_acre": 2.05
+  },
+  {
+   "geoid": "31153010631",
+   "households": 1761.0,
+   "population": 5005.0,
+   "hh_per_acre": 0.15
+  },
+  {
+   "geoid": "31153010632",
+   "households": 2627.0,
+   "population": 8227.0,
+   "hh_per_acre": 0.52
+  },
+  {
+   "geoid": "31153010633",
+   "households": 1516.0,
+   "population": 3896.0,
+   "hh_per_acre": 1.7
+  },
+  {
+   "geoid": "31153010634",
+   "households": 1030.0,
+   "population": 2390.0,
+   "hh_per_acre": 3.18
+  },
+  {
+   "geoid": "31153010635",
+   "households": 811.0,
+   "population": 2442.0,
+   "hh_per_acre": 0.34
+  },
+  {
+   "geoid": "31153010636",
+   "households": 2002.0,
+   "population": 5452.0,
+   "hh_per_acre": 0.97
+  },
+  {
+   "geoid": "31153010637",
+   "households": 1583.0,
+   "population": 4356.0,
+   "hh_per_acre": 1.3
+  },
+  {
+   "geoid": "31153010638",
+   "households": 1738.0,
+   "population": 4616.0,
+   "hh_per_acre": 1.35
+  },
+  {
+   "geoid": "31153010701",
+   "households": 850.0,
+   "population": 2421.0,
+   "hh_per_acre": 0.02
+  },
+  {
+   "geoid": "31153010702",
+   "households": 1597.0,
+   "population": 4050.0,
+   "hh_per_acre": 0.08
+  }
+ ]
+}

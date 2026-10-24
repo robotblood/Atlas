@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas · test run</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6.5' fill='none' stroke='%230b6e4f' stroke-width='1.6'/%3E%3Cpath d='M1.5 8h13M8 1.5c2.2 2 2.2 11 0 13M8 1.5c-2.2 2-2.2 11 0 13' fill='none' stroke='%230b6e4f' stroke-width='1.2'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="kit/atlas.css">
+<style>
+	:root { color-scheme: light dark; }
+	html, body { margin: 0; height: 100%; background: #f3f2ef; }
+	@media (prefers-color-scheme: dark) { :root:not([data-theme='light']) body { background: #1c1c1a; } }
+	:root[data-theme='dark'] body { background: #1c1c1a; }
+	#map { position: absolute; inset: 0; }
+	.card {
+		position: absolute; z-index: 2; top: 12px; left: 56px; max-width: 300px;
+		padding: 8px 12px; border-radius: 12px;
+		background: var(--ap-surface); color: var(--ap-text);
+		border: 1px solid var(--ap-border); box-shadow: var(--ap-shadow);
+	}
+	.card b { font-size: 14px; }
+	.card p { margin: 2px 0 0; color: var(--ap-muted); font-size: 12px; }
+	@media (max-width: 720px) { .card { left: 52px; right: 12px; max-width: none; } }
+</style>
+</head>
+<body>
+<div id="map">
+	<div class="card"><b>Atlas</b> <span class="ver"></span>
+		<p>Test run: shared base map, the Omaha layer catalog, and one tract join (households per acre).</p></div>
+</div>
+<script type="module">
+import { createMap, VERSION } from './kit/atlas.mjs';
+import * as omaha from './kit/catalog/omaha.mjs';
+
+document.querySelector('.ver').textContent = `kit ${VERSION}`;
+
+const density = {
+	id: 'density', name: 'Households per acre', group: 'Tract data (demo)', kind: 'choropleth',
+	data: omaha.GEO.tracts2024,
+	join: { key: 'GEOID', rows: 'data/demo-density.json', rowKey: 'geoid', value: (r) => r.hh_per_acre },
+	breaks: [0.5, 1.5, 2.5, 4],
+	format: (v) => v.toLocaleString(undefined, { maximumFractionDigits: 1 }),
+	label: (p, r) => [p.name, r ? `${r.hh_per_acre} households per acre` : 'no data',
+		r && `${Math.round(r.households).toLocaleString()} households · ${p.county} County`],
+	on: true,
+	source: 'ACS 2024 5-year (via UtilityTrack) over Census land area', asOf: '2026-10-22',
+	notes: 'The join pattern every project uses: boundaries from the kit, numbers from the project, matched on GEOID. Density is also the split the Tax vs Infrastructure map will lean on.'
+};
+
+window.atlas = await createMap('map', { region: omaha.region, layers: [density, ...omaha.layers] });
+</script>
+</body>
+</html>
